@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">privilege-rp.wh34695.web3.maze-tech.ru</domain>
+        <domain includeSubdomains="true">privilege-rp.forum.wh34695.web3.maze-tech.ru</domain>
+        <domain includeSubdomains="true">monwave.ru</domain>
+    </domain-config>
+</network-security-config>
